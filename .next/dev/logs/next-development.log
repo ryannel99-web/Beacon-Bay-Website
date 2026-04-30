@@ -1,0 +1,90 @@
+[00:00:00.958] Server  LOG     ✓ Ready in 714ms
+[00:02:48.803] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:02:48.923] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:10:45.790] Server  ERROR   ⨯ ReferenceError: Link is not defined
+[00:10:45.932] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:10:54.159] Server  ERROR   ⨯ ReferenceError: Link is not defined
+[00:10:54.431] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:11:01.504] Server  LOG     ✓ Compiled in 37ms
+[00:11:39.842] Server  LOG     ✓ Compiled in 18ms
+[00:11:49.291] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[42:37:49.020] Server  LOG     ✓ Compiled in 44ms
+[42:40:31.649] Server  ERROR   ⨯ ReferenceError: FAQAccordion is not defined
+[42:40:31.716] Server  LOG     ✓ Compiled in 0ms
+[42:40:31.776] Browser ERROR   uncaughtError: ReferenceError: FAQAccordion is not defined
+[42:41:05.479] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[42:43:55.863] Server  LOG     ✓ Compiled in 40ms
+[76:42:45.340] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[116:11:27.697] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[116:11:42.329] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[504:59:46.734] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[505:04:03.199] Server  LOG     ✓ Compiled in 123ms
+[505:24:15.230] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/services. Falling back to browser navigation. {}
+[505:38:57.654] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[506:08:30.356] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[506:08:39.999] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[559:57:34.589] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[560:14:20.878] Server  LOG     ✓ Compiled in 31ms
+[560:16:29.358] Server  LOG     ✓ Compiled in 67ms
+[560:28:24.435] Server  LOG     ✓ Compiled in 34ms
+[560:31:16.033] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[560:36:57.916] Server  ERROR   ⨯ ReferenceError: TeamGrid is not defined
+[560:36:58.036] Browser ERROR   uncaughtError: ReferenceError: TeamGrid is not defined
+[560:39:14.274] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[560:39:14.605] Server  LOG     ✓ Compiled in 43ms
+[577:09:35.336] Server  ERROR   ⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page
+[577:09:35.346] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.346] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.347] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.350] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.352] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.353] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.354] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.355] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.356] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.357] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.358] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.359] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.359] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.361] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.362] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.363] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.363] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.365] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.365] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.366] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.367] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.369] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.369] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.370] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.371] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.372] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.373] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.374] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.375] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.379] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.380] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.382] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.382] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.384] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.385] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.386] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.386] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.387] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.388] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.390] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.391] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.447] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.448] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.506] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.507] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.510] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.512] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.517] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.518] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.520] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.520] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.523] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.524] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.526] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
+[577:09:35.528] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/ryannel/Desktop/Beacon Vet Group/Website/src/app'
