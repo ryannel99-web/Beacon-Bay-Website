@@ -3,7 +3,7 @@ export const faqs = [
   {
     question: "Do you accept walk-ins?",
     answer:
-      "We recommend calling ahead so we can prepare and minimise waiting times. Emergencies are always assessed immediately — please call us on +27 43 735 1592 so we can be ready when you arrive.",
+      "We recommend calling ahead so we can prepare and minimise waiting times. Emergencies are always assessed immediately — please call us on 043 748 2550 so we can be ready when you arrive.",
   },
   {
     question: "Do you treat exotic pets?",
@@ -28,7 +28,7 @@ export const faqs = [
   {
     question: "What should I do if my pet has an emergency?",
     answer:
-      "Call our clinic number immediately on +27 43 735 1592. Outside of regular hours, you will be connected to the on-call vet who can advise you. Keep your pet calm, do not offer food or water unless instructed, and if you suspect poisoning, bring the packaging of the suspected substance with you.",
+      "Call our clinic number immediately on 043 748 2550. Outside of regular hours, you will be connected to the on-call vet who can advise you. Keep your pet calm, do not offer food or water unless instructed, and if you suspect poisoning, bring the packaging of the suspected substance with you.",
   },
   {
     question: "Do you offer parasite prevention products?",
