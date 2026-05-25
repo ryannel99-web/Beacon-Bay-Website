@@ -73,8 +73,8 @@ export default function AboutPage() {
             {/* TODO: Replace /stock/about.png with a real team/clinic photo. */}
             <div className="overflow-hidden rounded-3xl border border-white/60 shadow-soft">
               <Image
-                src="/stock/about.png"
-                alt="Veterinary team in a clinical space"
+                src="/stock/about.jpg"
+                alt="German Shepherd running in a field"
                 width={520}
                 height={620}
                 className="h-80 w-full object-cover"
