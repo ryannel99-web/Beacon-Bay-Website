@@ -44,7 +44,7 @@ export default function HomePage() {
           <div className="space-y-6">
             <div className="overflow-hidden rounded-2xl shadow-soft">
               <Image
-                src="/stock/about.jpg"
+                src="/stock/home-about.jpg"
                 alt="Veterinarian treating a German Shepherd"
                 width={520}
                 height={380}
