@@ -7,7 +7,7 @@ export const groupConfig = {
       id: "beacon-bay",
       name: "Beacon Bay Veterinary Clinic",
       address: "22 Bonza Bay Rd, Beacon Bay North, East London, 5205",
-      phone: "+27 43 735 1592",
+      phone: "043 748 2550",
       city: "Beacon Bay, East London",
       href: "/",
       mapLink: "https://maps.app.goo.gl/PHpYPdzo4WbEPzGg9",

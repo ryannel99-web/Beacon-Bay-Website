@@ -6,7 +6,7 @@ import { clinicConfig } from "@/config/clinic";
 export const metadata: Metadata = {
   title: "Book Appointment",
   description:
-    "Book an appointment at Beacon Bay Veterinary Clinic in East London. Phone bookings only. Call +27 43 735 1592.",
+    "Book an appointment at Beacon Bay Veterinary Clinic in East London. Phone bookings only. Call 043 748 2550.",
   keywords: [
     "book vet appointment East London",
     "Beacon Bay Vet appointment",
