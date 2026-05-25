@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(git clone:*)",
+      "Bash(mkdir -p ~/.claude/skills)",
+      "Bash(cp -rL /tmp/ui-ux-pro-max-skill/.claude/skills/ui-ux-pro-max ~/.claude/skills/ui-ux-pro-max)",
+      "Bash(rm \"CLAUDE_CODE_PROMPT.md\" \"Google Stitch Prompt.md\" \"README.md\")",
+      "Bash(rmdir \"Invoice APP\")",
+      "Bash(rm public/file.svg public/globe.svg public/next.svg public/vercel.svg public/window.svg)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
