@@ -58,8 +58,8 @@ export function Hero() {
 
       {/* Text content */}
       <div className="relative z-20 mx-auto w-full max-w-7xl px-8">
-        <div className="max-w-2xl space-y-8 py-24 animate-fade-up">
-          <h1 className="text-6xl font-bold text-white leading-[1.1] tracking-tight sm:text-7xl">
+        <div className="max-w-2xl space-y-6 py-16 lg:py-24 animate-fade-up">
+          <h1 className="text-4xl font-bold text-white leading-[1.1] tracking-tight sm:text-5xl lg:text-6xl">
             Friendly, professional veterinary care
           </h1>
           <div className="flex flex-wrap gap-4">

@@ -20,11 +20,11 @@ export default function AboutPage() {
   return (
     <div className="bg-lightBlue">
       {/* Hero */}
-      <section className="bg-primaryBlue px-6 py-24 text-center">
+      <section className="bg-primaryBlue px-6 py-16 text-center lg:py-24">
         <p className="text-xs font-semibold uppercase tracking-[0.3em] text-white/60">
           About Us
         </p>
-        <h1 className="mx-auto mt-4 max-w-2xl font-display text-5xl font-bold leading-tight text-white">
+        <h1 className="mx-auto mt-4 max-w-2xl font-display text-4xl font-bold leading-tight text-white lg:text-5xl">
           Small clinic with a big heart
         </h1>
       </section>

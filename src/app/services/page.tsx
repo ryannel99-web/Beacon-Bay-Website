@@ -161,14 +161,14 @@ export default function ServicesPage() {
   return (
     <div className="bg-lightBlue">
       {/* Page header */}
-      <section className="px-6 py-24 text-center">
-        <h1 className="mx-auto font-display text-5xl font-bold leading-tight text-black">
+      <section className="px-6 py-12 text-center lg:py-20">
+        <h1 className="mx-auto font-display text-4xl font-bold leading-tight text-black lg:text-5xl">
           Services
         </h1>
       </section>
 
       {/* Uniform services grid */}
-      <section className="mx-auto w-full max-w-6xl px-6 pb-24">
+      <section className="mx-auto w-full max-w-6xl px-6 pb-16 lg:pb-24">
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {services.map((service) => (
             <div

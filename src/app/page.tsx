@@ -13,10 +13,10 @@ export default function HomePage() {
       <Hero />
 
       {/* About snippet */}
-      <section className="bg-surface py-28">
-        <div className="mx-auto grid w-full max-w-7xl gap-16 px-8 lg:grid-cols-[1.1fr_0.9fr]">
+      <section className="bg-surface py-16 lg:py-28">
+        <div className="mx-auto grid w-full max-w-7xl gap-10 px-6 lg:gap-16 lg:px-8 lg:grid-cols-[1.1fr_0.9fr]">
           <div className="space-y-7">
-            <h2 className="text-4xl font-bold text-primaryBlue tracking-tight">
+            <h2 className="text-3xl font-bold text-primaryBlue tracking-tight lg:text-4xl">
               Redefining the Clinical Experience
             </h2>
             <div>
@@ -57,8 +57,8 @@ export default function HomePage() {
       </section>
 
       {/* Stats strip */}
-      <section className="bg-primaryBlue py-20">
-        <div className="mx-auto grid w-full max-w-7xl grid-cols-1 gap-12 px-8 text-center sm:grid-cols-3">
+      <section className="bg-primaryBlue py-14 lg:py-20">
+        <div className="mx-auto grid w-full max-w-7xl grid-cols-1 gap-10 px-6 text-center sm:grid-cols-3 lg:px-8">
           {[
             { value: "45+", label: "Years in East London" },
             { value: "365", label: "Days a Year" },
@@ -77,14 +77,14 @@ export default function HomePage() {
       <ReviewsSection />
 
       {/* Blog preview */}
-      <section className="bg-surface py-24">
-        <div className="mx-auto w-full max-w-7xl px-8">
-          <div className="flex items-end justify-between gap-4 mb-12">
+      <section className="bg-surface py-16 lg:py-24">
+        <div className="mx-auto w-full max-w-7xl px-6 lg:px-8">
+          <div className="flex items-end justify-between gap-4 mb-10 lg:mb-12">
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.3em] text-primaryBlue/70 mb-2">
                 News
               </p>
-              <h2 className="text-4xl font-bold text-primaryBlue tracking-tight">
+              <h2 className="text-3xl font-bold text-primaryBlue tracking-tight lg:text-4xl">
                 Clinic updates &amp; pet care tips
               </h2>
             </div>

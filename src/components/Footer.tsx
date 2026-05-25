@@ -5,7 +5,7 @@ import { footerLinks } from "@/data/navigation";
 export function Footer() {
   return (
     <footer className="border-t border-outline-variant/30 bg-surface-container-low">
-      <div className="mx-auto grid w-full max-w-7xl gap-12 px-8 py-16 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
+      <div className="mx-auto grid w-full max-w-7xl gap-8 px-6 py-10 lg:gap-12 lg:px-8 lg:py-16 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div className="space-y-5">
           <div className="flex items-center gap-4">
             <img src="/logo.jpg" alt="Beacon Bay Veterinary Clinic" className="h-16 w-16 rounded-full object-cover" />
