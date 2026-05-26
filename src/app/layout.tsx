@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { clinicConfig } from "@/config/clinic";
 import { Header } from "@/components/Header";
@@ -132,6 +133,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <FloatingContact />
+        <Analytics />
       </body>
     </html>
   );
