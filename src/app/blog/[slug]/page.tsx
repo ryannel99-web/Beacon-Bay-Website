@@ -9,24 +9,26 @@ export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
 
-export function generateMetadata({
+export async function generateMetadata({
   params,
 }: {
-  params: { slug: string };
-}): Metadata {
-  const post = blogPosts.find((entry) => entry.slug === params.slug);
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const post = blogPosts.find((entry) => entry.slug === slug);
   return {
     title: post ? post.title : "News",
     description: post ? post.excerpt : "Clinic news and pet care guidance.",
   };
 }
 
-export default function BlogPostPage({
+export default async function BlogPostPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
-  const post = blogPosts.find((entry) => entry.slug === params.slug);
+  const { slug } = await params;
+  const post = blogPosts.find((entry) => entry.slug === slug);
 
   if (!post) {
     return (
