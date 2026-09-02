@@ -6,7 +6,7 @@ export const clinicConfig = {
   phone: "043 748 2550",
   phoneIntl: "+27437482550",
   whatsappNumber: "27725129410",
-  email: "info@beaconbayvet.co.za",
+  email: "admin@bbayvet.co.za",
   mapLink: "https://maps.app.goo.gl/PHpYPdzo4WbEPzGg9",
   siteUrl: "https://beaconbayvet.co.za", // TODO: Update with the live website URL
   hours: {
